@@ -16,7 +16,7 @@ const data = {
 	twitter: chalk.hex(COLOR_THEME)("https://twitter.com/abr4xas"),
 	github: chalk.hex(COLOR_THEME)("https://github.com/abr4xas"),
 	linkedin: chalk.hex(COLOR_THEME)("https://linkedin.com/in/ancrz"),
-	web: chalk.hex(COLOR_THEME)("https://angelcruz.me"),
+	web: chalk.hex(COLOR_THEME)("https://angelcruz.dev"),
 	npx: chalk.white("npx angelcruzdev"),
 
 	labelTwitter: chalk.white.bold("     Twitter:"),
