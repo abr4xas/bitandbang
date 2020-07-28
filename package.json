@@ -10,7 +10,7 @@
 		"type": "git",
 		"url": "git+https://github.com/abr4xas/bitandbang.git"
 	},
-	"homepage": "https://angelcruz.me",
+	"homepage": "https://angelcruz.dev",
 	"scripts": {
 		"lint": "standard",
 		"fix": "standard --fix"
