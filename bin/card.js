@@ -10,7 +10,7 @@ const data = {
 	name: chalk.white.bold("👋 Hi! I'm Angel Cruz"),
 	handle: chalk.hex(COLOR_THEME)("@abr4xas"),
 	work: chalk.white(
-		"Backend Developer. I know how to work with php, I'm a big fan of Laravel & WordPress. \nAlso, I have a experience with HTML5/CSS3 and Javascript. \nRight now I'm in love with ReactJS ❤︎"
+		"Backend Developer. I know how to work with php, I'm a big fan of Laravel & WordPress. \nAlso, I have a experience with HTML5/CSS3 and Javascript. \nRight now I'm in love with ReactJS ❤︎ & TailwindCSS"
 	),
 
 	twitter: chalk.hex(COLOR_THEME)("https://twitter.com/abr4xas"),
