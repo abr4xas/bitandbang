@@ -1,7 +1,7 @@
 {
 	"name": "angelcruzdev",
 	"version": "1.0.3",
-	"description": "A personal card for Angel Cruz (@abr4xas) ",
+	"description": "A personal card for Angel Cruz (@abr4xas)",
 	"main": "index.js",
 	"bin": {
 		"angelcruzdev": "./bin/card.js"
