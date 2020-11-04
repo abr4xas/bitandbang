@@ -2,8 +2,8 @@
 // 👆 Used to tell Node.js that this is a CLI tool
 
 // Pull in our modules
-const chalk = require('chalk')
-const COLOR_THEME = '#c0392b'
+const chalk = require("chalk");
+const COLOR_THEME = "#c0392b";
 
 // Text + chalk definitions
 const data = {
@@ -16,13 +16,15 @@ const data = {
 	twitter: chalk.hex(COLOR_THEME)("https://twitter.com/abr4xas"),
 	github: chalk.hex(COLOR_THEME)("https://github.com/abr4xas"),
 	linkedin: chalk.hex(COLOR_THEME)("https://linkedin.com/in/ancrz"),
-	web: chalk.hex(COLOR_THEME)("https://angelcruz.dev"),
+	web: chalk.hex(COLOR_THEME)("https://angelcruz.me"),
+	blog: chalk.hex(COLOR_THEME)("https://angelcruz.dev"),
 	npx: chalk.white("npx angelcruzdev"),
 
 	labelTwitter: chalk.white.bold("     Twitter:"),
 	labelGitHub: chalk.white.bold("      GitHub:"),
 	labelLinkedIn: chalk.white.bold("    LinkedIn:"),
 	labelWeb: chalk.white.bold("         Web:"),
+	labelBlog: chalk.white.bold("         Blog:"),
 	labelCard: chalk.white.bold("        Card:"),
 };
 
@@ -35,9 +37,9 @@ ${data.labelTwitter}  ${data.twitter}
 ${data.labelGitHub}  ${data.github}
 ${data.labelLinkedIn}  ${data.linkedin}
 ${data.labelWeb}  ${data.web}
-
+${data.labelBlog}  ${data.blog}
 ${data.labelCard}  ${data.npx}
 
-`
+`;
 
-console.log(output)
+console.log(output);
