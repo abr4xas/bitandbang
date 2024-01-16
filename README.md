@@ -15,14 +15,12 @@ npx: installed 9 in 3.631s
 
 👋 Hi! I'm Angel Cruz (@abr4xas)
 
-Backend Developer. I know how to work with php, I'm a big fan of Laravel & WordPress.
-Also, I have a experience with HTML5/CSS3 and Javascript.
-Right now I'm in love with ReactJS ❤︎
+Software Engineer | PHP | Laravel | WordPress developer
+Sometimes I like to do some fun things with JavaScript, just like this card.
 
      Twitter:  https://twitter.com/abr4xas
       GitHub:  https://github.com/abr4xas
-    LinkedIn:  https://linkedin.com/in/ancrz
-         Web:  https://angelcruz.me
+    LinkedIn:  https://linkedin.com/in/angelcruzdev
         Blog:  https://angelcruz.dev
 
         Card:  npx angelcruzdev
